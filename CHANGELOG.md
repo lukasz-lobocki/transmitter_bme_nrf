@@ -2,7 +2,14 @@
 
 
 
-## v0.1.0 (2023-07-27)
+## v0.2.4 (2023-07-27)
+
+### Fix
+
+* fix: Manual version bump. ([`25d9f99`](https://github.com/lukasz-lobocki/transmitter_bme_nrf/commit/25d9f99afe738c3bdff457dfa4ad705ccbf8997c))
+
+
+## v0.2.3 (2023-07-27)
 
 ### Feature
 

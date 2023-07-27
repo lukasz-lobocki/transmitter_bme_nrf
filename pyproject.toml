@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "transmitter_bme_nrf"
-version = "0.1.0"
+version = "0.2.4"
 description = "Transmitting end of temperature, pressure, humidity."
 authors = ["Lukasz Lobocki"]
 license = "CC0 v1.0 Universal"
