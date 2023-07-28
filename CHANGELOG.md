@@ -2,6 +2,13 @@
 
 
 
+## v0.2.5 (2023-07-28)
+
+### Fix
+
+* fix: change ([`f76aa32`](https://github.com/lukasz-lobocki/transmitter_bme_nrf/commit/f76aa322b85c7b30690ac4009bd6faaf7bcddf4c))
+
+
 ## v0.2.4 (2023-07-27)
 
 ### Fix
