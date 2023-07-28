@@ -2,6 +2,13 @@
 
 
 
+## v0.2.9 (2023-07-28)
+
+### Fix
+
+* fix: Updating dependencies. ([`066c00f`](https://github.com/lukasz-lobocki/transmitter_bme_nrf/commit/066c00fb70b156e495962e75e1cc8bcf63ac7d2b))
+
+
 ## v0.2.8 (2023-07-28)
 
 ### Build
