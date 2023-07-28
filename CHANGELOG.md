@@ -2,6 +2,17 @@
 
 
 
+## v0.2.8 (2023-07-28)
+
+### Build
+
+* build(flash): Adding PyCharm flash scripts. ([`5fe605f`](https://github.com/lukasz-lobocki/transmitter_bme_nrf/commit/5fe605fbddcf651794e82a52ca8f69d0776b13c0))
+
+### Fix
+
+* fix(poetry): Added lobo_rig dependency. ([`2cd1b23`](https://github.com/lukasz-lobocki/transmitter_bme_nrf/commit/2cd1b236aa1c2712b29b9cd226522137e8bf5464))
+
+
 ## v0.2.7 (2023-07-28)
 
 ### Fix
