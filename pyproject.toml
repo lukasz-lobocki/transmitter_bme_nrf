@@ -10,6 +10,7 @@ readme = "README.md"
 python = "^3.10"
 lobo-nrf24l01 = {git = "git@github.com:lukasz-lobocki/lobo_nrf24l01", develop = true}
 lobo-bme280 = {git = "git@github.com:lukasz-lobocki/lobo_bme280", develop = true}
+lobo-rig = {git = "git@github.com:lukasz-lobocki/lobo_rig", develop = true}
 
 [tool.poetry.dev-dependencies]
 

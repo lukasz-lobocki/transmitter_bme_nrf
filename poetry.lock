@@ -249,6 +249,21 @@ reference = "HEAD"
 resolved_reference = "f71472b27f4a0e4edd315b273a9d66d6d34fb70e"
 
 [[package]]
+name = "lobo-rig"
+version = "0.4.5"
+description = "Pin variables for my controllers."
+optional = false
+python-versions = "^3.10"
+files = []
+develop = true
+
+[package.source]
+type = "git"
+url = "git@github.com:lukasz-lobocki/lobo_rig"
+reference = "HEAD"
+resolved_reference = "51c22aff439a28279892834fc3c7b45f95321ee1"
+
+[[package]]
 name = "markdown-it-py"
 version = "3.0.0"
 description = "Python port of markdown-it. Markdown parsing, done right!"
@@ -602,4 +617,4 @@ zstd = ["zstandard (>=0.18.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "ac4b15ae5347a28b8f5b98802e1659e3275db2da134a1861a0b7caf62a2ce539"
+content-hash = "4551626b972cccc4fe29ee13b12ac12dae2cead7a5b894e32df6a2124f671273"
