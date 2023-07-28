@@ -2,6 +2,13 @@
 
 
 
+## v0.2.6 (2023-07-28)
+
+### Fix
+
+* fix: change ([`85b0bb5`](https://github.com/lukasz-lobocki/transmitter_bme_nrf/commit/85b0bb53069e953b1c61a2db8cf7285f88e4786c))
+
+
 ## v0.2.5 (2023-07-28)
 
 ### Fix
