@@ -220,7 +220,7 @@ i18n = ["Babel (>=2.7)"]
 
 [[package]]
 name = "lobo-bme280"
-version = "0.2.4"
+version = "0.2.5"
 description = "Micropython driver for the BME280 sensor."
 optional = false
 python-versions = "^3.10"
@@ -231,11 +231,11 @@ develop = true
 type = "git"
 url = "git@github.com:lukasz-lobocki/lobo_bme280"
 reference = "HEAD"
-resolved_reference = "eca0f4cc134c5a8cc6b3e3658be8558eb345861c"
+resolved_reference = "01a1fd0bbc684e61b879fdeb8674e2f10d571429"
 
 [[package]]
 name = "lobo-nrf24l01"
-version = "0.2.3"
+version = "0.2.4"
 description = "Driver for nrf24l01."
 optional = false
 python-versions = "^3.10"
@@ -246,11 +246,11 @@ develop = true
 type = "git"
 url = "git@github.com:lukasz-lobocki/lobo_nrf24l01"
 reference = "HEAD"
-resolved_reference = "f71472b27f4a0e4edd315b273a9d66d6d34fb70e"
+resolved_reference = "48efc2b33ebdc13f0b821bc5b6cae46ac37fc535"
 
 [[package]]
 name = "lobo-rig"
-version = "0.4.5"
+version = "0.4.6"
 description = "Pin variables for my controllers."
 optional = false
 python-versions = "^3.10"
@@ -261,7 +261,7 @@ develop = true
 type = "git"
 url = "git@github.com:lukasz-lobocki/lobo_rig"
 reference = "HEAD"
-resolved_reference = "51c22aff439a28279892834fc3c7b45f95321ee1"
+resolved_reference = "0863f88bab7f46ff0f2e70d33fb05f3c384f85ff"
 
 [[package]]
 name = "markdown-it-py"
