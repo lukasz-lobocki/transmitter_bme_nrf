@@ -1,4 +1,4 @@
-dupa# transmitter_bme_nrf
+# transmitter_bme_nrf
 
 Transmitting end of temperature, pressure, humidity.
 
